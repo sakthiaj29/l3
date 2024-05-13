@@ -1,3 +1,5 @@
+explanation video
+ <br />
 [YouTube Link](https://www.youtube.com/watch?v=uCqr0zLPwpo&t=4s)
 
  <br />
@@ -6,6 +8,6 @@
 
 ![suduko_solver_output](https://github.com/sakthiaj29/l3/assets/159148814/23dfff45-d910-4918-8f00-a5f0725dfe1f)
 
-explanation video
+
 
 
